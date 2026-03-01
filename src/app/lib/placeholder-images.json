@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hospital",
+      "description": "Modern hospital building wing",
+      "imageUrl": "https://picsum.photos/seed/civic1/1200/800",
+      "imageHint": "hospital architecture"
+    },
+    {
+      "id": "bridge",
+      "description": "Large modern bridge construction",
+      "imageUrl": "https://picsum.photos/seed/civic2/1200/800",
+      "imageHint": "bridge construction"
+    },
+    {
+      "id": "university",
+      "description": "University library building",
+      "imageUrl": "https://picsum.photos/seed/civic3/1200/800",
+      "imageHint": "university building"
+    },
+    {
+      "id": "metro",
+      "description": "Modern metro station interior",
+      "imageUrl": "https://picsum.photos/seed/civic4/1200/800",
+      "imageHint": "metro station"
+    },
+    {
+      "id": "flyover",
+      "description": "Urban flyover road at night",
+      "imageUrl": "https://picsum.photos/seed/civic5/1200/800",
+      "imageHint": "urban flyover"
+    }
+  ]
+}
