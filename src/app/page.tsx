@@ -4,7 +4,7 @@
 import Navbar from "@/components/layout/Navbar";
 import CivicMap from "@/components/map/CivicMap";
 import { Button } from "@/components/ui/button";
-import { Map as MapIcon, Info, Navigation, Bell } from "lucide-react";
+import { Info, Navigation, Bell } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { useState } from "react";
 
@@ -56,7 +56,7 @@ export default function Home() {
         <div className="hidden lg:block absolute bottom-8 left-8 z-30 w-72">
           <div className="bg-white/90 backdrop-blur-md p-6 rounded-2xl shadow-xl border border-white/50 space-y-4">
             <h3 className="font-headline font-bold text-primary flex items-center gap-2">
-              <Info className="h-5 w-5 text-accent" /> Civic Impact Dashboard
+              <Info className="h-5 w-5 text-accent" /> Nagar Impact Dashboard
             </h3>
             <div className="space-y-3">
               <div className="flex justify-between items-center text-sm">

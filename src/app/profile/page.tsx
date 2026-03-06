@@ -43,7 +43,7 @@ export default function ProfilePage() {
             </Button>
           </div>
           <h1 className="text-2xl font-headline font-bold text-primary">John Doe</h1>
-          <p className="text-muted-foreground">Civic Explorer • Delhi, IN</p>
+          <p className="text-muted-foreground">Nagar Explorer • Delhi, IN</p>
         </div>
 
         <div className="grid gap-6">

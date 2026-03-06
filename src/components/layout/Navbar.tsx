@@ -22,7 +22,7 @@ export default function Navbar() {
           <div className="bg-accent p-1.5 rounded-lg rotate-12 group-hover:rotate-0 transition-transform">
             <MapPin className="h-6 w-6 text-white" />
           </div>
-          <span className="font-headline text-xl font-bold tracking-tight">CivicFence</span>
+          <span className="font-headline text-xl font-bold tracking-tight">NagarDarpan</span>
         </Link>
       </div>
 

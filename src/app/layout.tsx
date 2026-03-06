@@ -4,7 +4,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'CivicFence | Delhi Infrastructure Transparency',
+  title: 'NagarDarpan | Delhi Infrastructure Transparency',
   description: 'Track nearby public infrastructure projects in Delhi.',
 };
 

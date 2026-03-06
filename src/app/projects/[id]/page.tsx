@@ -11,13 +11,12 @@ import {
   ArrowLeft, 
   Share2, 
   CheckCircle2, 
-  Calendar, 
   ExternalLink, 
   MapPin, 
   IndianRupee,
   MessageCircle,
   ThumbsUp,
-  Clock,
+  Info,
   Users,
   Bed,
   Zap,
@@ -30,7 +29,9 @@ import {
   Accessibility,
   Train,
   Activity,
-  Ruler
+  Ruler,
+  Calendar,
+  Clock
 } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
@@ -167,11 +168,11 @@ export default function ProjectPage({ params }: { params: Promise<{ id: string }
 
           <div className="md:col-span-4 px-6 md:px-0">
             <div className="sticky top-28 space-y-6">
-              {/* Civic Impact Stats */}
+              {/* Nagar Impact Stats */}
               <Card className="border-2 border-primary/10 shadow-xl rounded-3xl overflow-hidden">
                 <CardHeader className="bg-primary text-primary-foreground">
                   <CardTitle className="text-xl font-headline flex items-center gap-2">
-                    <Activity className="h-5 w-5" /> Civic Impact
+                    <Activity className="h-5 w-5" /> Nagar Impact
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="p-6 space-y-6">

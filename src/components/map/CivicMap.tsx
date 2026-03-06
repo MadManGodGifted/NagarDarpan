@@ -42,7 +42,7 @@ export default function CivicMap() {
         <svg viewBox="0 0 100 100" width="400" height="400" className="opacity-10">
           <path d="M50 10 L60 40 L90 50 L60 60 L50 90 L40 60 L10 50 L40 40 Z" fill="currentColor" />
         </svg>
-        <p className="text-4xl font-headline font-bold text-center">NEW DELHI</p>
+        <p className="text-4xl font-headline font-bold text-center uppercase tracking-tighter opacity-20">Nagar Darpan</p>
       </div>
 
       {/* Project Markers */}
